@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Advanced Text-to-Voice Generator Platform with Dark UI",
   "type": "module",
-  "homepage": "https://tmnpthennakoon.github.io/Text-to-Voice-Generator.github.io",
+  "homepage": "https://nayana.top",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
